@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sistema Experto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_inicio">¡Bienvenido al test de enfermedades Neurologicas!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_rigidez_muscular">¿Presentas Rigidez Muscular?</string>
+    <string name="fragment_dolor_cabeza">¿Has presentado dolores de cabeza?</string>
+    <string name="fragment_perdida_memoria">¿Tienes problemas para recordar?</string>
+    <string name="fragment_problemas_de_habla">¿Tienes problemas para hablar o pronunciar algunas palabras?</string>
+    <string name="fragment_nauseas_y_vomito">¿Has presentado nauseas o vomito?</string>
+    <string name="fragment_vision_borrosa">¿Tienes vision borrosa?</string>
+    <string name="fragment_sensibilidad_luz">¿Presentas sensibilidad a la luz?</string>
+    <string name="fragment_sensasion_hormigueo">¿Presentas sensasion de hormigueo?</string>
+    <string name="fragment_convulsiones">¿Has convulsionado?</string>
+    <string name="fragment_perdida_sensibilidad">¿Has presentado perdida de sensibilidad?</string>
+    <string name="fragment_problemas_urinarios">¿Tienes problemas para orinar?</string>
+    <string name="fragment_desorientacion">¿Te sientes desorientado?</string>
+    <string name="fragment_cambios_personalidad">¿Tienes cambios de personalidad?</string>
+    <string name="respuesta_si">si</string>
+    <string name="respuesta_no">no</string>
+    <string name="btn_sin_resultado">Volver a Inicio</string>
+    <string name="btn_ver_resultado">Ver informe completo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sin_resultado">Lo sentimos, sus sintomas no coinciden con ninguna enfermedad</string>
+</resources>
